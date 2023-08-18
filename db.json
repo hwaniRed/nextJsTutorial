@@ -1,0 +1,46 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is..."
+    },
+    {
+      "title": "javascript",
+      "body": "Javascript ...",
+      "id": 5
+    },
+    {
+      "title": "React ",
+      "body": "React is ...",
+      "id": 6
+    },
+    {
+      "title": "Vue",
+      "body": "Vue is ...",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
